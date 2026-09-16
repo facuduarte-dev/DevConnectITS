@@ -3,7 +3,7 @@
 $host = "127.0.0.1";
 $usuario = "root";
 $contrasena = ""; // Contraseña de tu usuario de MySQL
-$baseDeDatos = "DevConnect";
+$baseDeDatos = "DevConnectITS";
 $puerto = 3306;
 
 $conn = new mysqli(
